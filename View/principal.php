@@ -28,7 +28,7 @@ sessionValidate();
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalLabel">que dice perro?</h5>
+          <h5 class="modal-title" id="exampleModalLabel">QUIHUBOOOOOO</h5>
           <button class="close" type="button" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">×</span>
           </button>
@@ -42,7 +42,7 @@ sessionValidate();
     </div>
   </div>
 
-
+<h1
                      
 <?php include FOLDER_TEMPLATE. "scripts.php"; ?>
 </body>
